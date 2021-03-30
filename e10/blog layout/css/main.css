@@ -1,0 +1,36 @@
+body {
+  background-color: #B284BE;
+}
+.board{
+  width: 60vw;
+  display: flow-root;
+  margin: 100px auto;
+}
+.board1{
+  width: 60vw;
+  height: 5vw;
+  background-color: white;
+  float: left;
+}
+.con1{
+  width: 39vw;
+  height: 34vw;
+  background-color: #F19CBB;
+  float: left;
+  margin-top: 8vw;
+  margin-right: 1vw;
+  margin-bottom: 1vw;
+}
+.con2{
+  width: 20vw;
+  height: 17vw;
+  background: #AB274F;
+  float: left;
+  margin-top: 8vw;
+}
+.con3{
+  width: 39vw;
+  height: 5vw;
+  background: white;
+  float: left;
+}

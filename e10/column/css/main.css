@@ -1,0 +1,43 @@
+body {
+  background-color: white;
+}
+
+.board{
+  width: 38vw;
+  margin: 100px auto;
+  display: flow-root;
+}
+.head{
+  width: 38vw;
+  height: 6vw;
+  float: left;
+  margin-bottom: 2vw;
+  background-color: blue;
+}
+.lines{
+  width: 38vw;
+  height: 2vw;
+  background-color: pink;
+  float: left;
+  margin-bottom: 2vw;
+}
+.box{
+  width: 12vw;
+  height: 24vw;
+  background-color: purple;
+  float: left;
+}
+.abox{
+  width: 12vw;
+  height: 24vw;
+  background-color: purple;
+  float: left;
+  margin-right: 1vw;
+  margin-left: 1vw;
+}
+.foot{
+  width: 38vw;
+  height: 5vw;
+  background-color: blue;
+  float: left;
+  margin-top: 1vw;
