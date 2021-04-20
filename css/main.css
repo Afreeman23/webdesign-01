@@ -1,0 +1,23 @@
+body{
+background-color: pink;
+font-size: 35px;
+}
+header{
+width: 75vw;
+margin: 25px auto;
+display: flow-root;
+font-family: 'Quicksand'
+}
+h3{
+  color: white;
+  font-family: 'Quicksand'
+}
+.col{
+  width: 50%
+  float:left;
+}
+@media screen and (max-width:1331px) {
+  .col{
+    width: 100%
+  }
+}
